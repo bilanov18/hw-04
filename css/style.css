@@ -176,11 +176,8 @@
   font-family: "Open Sans";
 
 }
-.news{
-    text-decoration: none;
-    color: white;
-    font-size: 18px;
-}
+
+
 .news-item{
     float: right;
 }
