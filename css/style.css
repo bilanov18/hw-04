@@ -43,7 +43,7 @@
     font-weight: 600;
     line-height: 11px;
     color: #0f0101;
-    font-family:"Open Sans";
+    font-family: "Open Sans";
     text-transform: uppercase;
 }
 
@@ -193,4 +193,5 @@
   text-decoration: none;
   padding: 16px 0px;
   color: #ffffff;
+  font-family: "Open Sans";
 }
