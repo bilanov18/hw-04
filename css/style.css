@@ -120,7 +120,6 @@
   
   .name-price .title {
     display: inline;
-  
   }
   
   .name-price .price {
@@ -144,8 +143,8 @@
 
 
 .news-article{
-      width: 350px;
-       color: #555252;
+   width: 350px;
+   color: #555252;
   }
 .news-list{
     list-style: none;
@@ -177,7 +176,6 @@
 
 }
 
-
 .news-item{
     float: right;
 }
@@ -186,7 +184,8 @@
 }
 
 .btn{
-    display: block;
+  font-size: 18px;
+  display: block;
   width: 160px;
   background-color: #4ec6ab;
   border-radius: 5%;
